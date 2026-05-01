@@ -72,14 +72,7 @@
 
 <br/>
 
-<!-- COBRINHA ROXA -->
-<h2 align="center">🐍 &nbsp;Contribuições</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-<br/>
+![Snake](https://github.com/Maickon0709/Maickon0709/blob/output/github-contribution-grid-snake.svg)
 
 <!-- CONTATO -->
 <h2 align="center">📬 &nbsp;Contato</h2>
