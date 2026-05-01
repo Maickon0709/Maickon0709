@@ -9,6 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Back-End;Python+%7C+APIs+%7C+Banco+de+Dados;Dev+Back-End+J%C3%BAnior+%F0%9F%9A%80"/>
 </p>
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/main/banner.gif" width="780" style="border-radius:12px"/>
+</p>
+
+<br/>
+
 <!-- BADGES DE PERFIL -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maickon0709&label=Visitantes&color=7c3aed&style=flat-square"/>
