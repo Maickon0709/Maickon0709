@@ -16,16 +16,7 @@
 
 <br/>
 
-<!-- BADGES DE PERFIL -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maickon0709&label=Visitantes&color=7c3aed&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Maickon0709?label=Seguidores&style=flat-square&color=7c1a1a"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Estudando%20%26%20Construindo-7c3aed?style=flat-square"/>
-</p>
 
-<br/>
 
 ---
 
