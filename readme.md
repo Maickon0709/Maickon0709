@@ -1,13 +1,12 @@
-
-
 <!-- BANNER WAVE TOP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/main/1760c4351f68e15b591238223231gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:3b0764,100:7c3aed&height=120&section=header"/>
 </p>
 
-<!-- GIF CENTRAL -->
+<!-- TÍTULO -->
+<h1 align="center">Olá! Eu sou o Maickon Santos 👋</h1>
 <p align="center">
-  <img src="./assets/banner.gif" width="780" style="border-radius:12px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Back-End;Python+%7C+APIs+%7C+Banco+de+Dados;Dev+Back-End+J%C3%BAnior+%F0%9F%9A%80"/>
 </p>
 
 <!-- BADGES DE PERFIL -->
@@ -20,6 +19,8 @@
 </p>
 
 <br/>
+
+---
 
 <!-- O QUE ESTOU ESTUDANDO -->
 <h2 align="center">📚 &nbsp;O que estou estudando</h2>
@@ -61,7 +62,20 @@
 
 <br/>
 
+---
 
+<!-- SOBRE MIM -->
+<h2 align="center">🙋‍♂️ &nbsp;Sobre mim</h2>
+
+<p align="center">
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, apaixonado por tecnologia e com foco em <strong>Back-End</strong>.<br/>
+  Atualmente desenvolvendo habilidades em <strong>Python, APIs REST, banco de dados e lógica de programação</strong>.<br/>
+  Meu objetivo é me tornar um <strong>Desenvolvedor Back-End Júnior</strong> e crescer na área de tecnologia. 🚀
+</p>
+
+<br/>
+
+---
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
@@ -74,7 +88,18 @@
 
 <br/>
 
-![Snake](https://github.com/Maickon0709/Maickon0709/blob/output/github-contribution-grid-snake.svg)
+---
+
+<!-- CONTRIBUIÇÕES -->
+<h2 align="center">📅 &nbsp;Contribuições</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maickon0709&theme=radical&hide_border=true&bg_color=0D0D0D&color=9333ea&line=7c3aed&point=ffffff"/>
+</p>
+
+<br/>
+
+---
 
 <!-- CONTATO -->
 <h2 align="center">📬 &nbsp;Contato</h2>
@@ -88,6 +113,8 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br/>
 
 <!-- BANNER WAVE BOTTOM -->
 <p align="center">
