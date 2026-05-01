@@ -6,7 +6,7 @@
 <!-- TÍTULO -->
 <h1 align="center">Olá! Eu sou o Maickon Santos 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Back-End;Python+%7C+APIs+%7C+Banco+de+Dados;Dev+Back-End+J%C3%BAnior+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Estudando+Back-End+%26+Dados;Python+%7C+APIs+%7C+Banco+de+Dados;Futuro+Analista+de+Dados+%F0%9F%9A%80"/>
 </p>
 
 <!-- BANNER -->
@@ -66,9 +66,9 @@
 <h2 align="center">🙋‍♂️ &nbsp;Sobre mim</h2>
 
 <p align="center">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, apaixonado por tecnologia e com foco em <strong>Back-End</strong>.<br/>
-  Atualmente desenvolvendo habilidades em <strong>Python, APIs REST, banco de dados e lógica de programação</strong>.<br/>
-  Meu objetivo é me tornar um <strong>Desenvolvedor Back-End Júnior</strong> e crescer na área de tecnologia. 🚀
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, apaixonado por tecnologia e me encaminhando para a área de <strong>Back-End com foco em dados</strong>.<br/>
+  Atualmente estudando <strong>Python, APIs REST, banco de dados, estrutura de dados</strong> e tudo que envolve o universo dos dados.<br/>
+  Meu objetivo futuro é me tornar um <strong>Analista de Dados Júnior</strong>, construindo uma base sólida um passo de cada vez. 🚀
 </p>
 
 <br/>
