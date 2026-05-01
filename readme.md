@@ -1,6 +1,8 @@
+
+
 <!-- BANNER WAVE TOP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:3b0764,100:7c1a1a&height=180&section=header&text=Maickon&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Back-End%20Dev%20in%20Progress%20%7C%20ADS%20%7C%20Recife%20%F0%9F%A6%80&descSize=16&descAlignY=62&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/main/banner_optimized.gif"/>
 </p>
 
 <!-- GIF CENTRAL -->
