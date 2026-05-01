@@ -2,7 +2,7 @@
 
 <!-- BANNER WAVE TOP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/main/banner_optimized.gif"/>
+  <img src="https://raw.githubusercontent.com/Maickon0709/Maickon0709/main/1760c4351f68e15b591238223231gif"/>
 </p>
 
 <!-- GIF CENTRAL -->
