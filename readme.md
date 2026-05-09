@@ -76,17 +76,11 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff&cache_seconds=1800&rank_icon=github"/>
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6&cache_seconds=1800"/>
 </p>
-
-<br/>
-
----
 
 <!-- CONTRIBUIÇÕES -->
 <h2 align="center">📅 &nbsp;Contribuições</h2>
