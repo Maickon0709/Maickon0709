@@ -77,11 +77,10 @@
 
 <!-- GITHUB STATS -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff&cache_seconds=1800&rank_icon=github"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Maickon0709&theme=radical&hide_border=true&background=0D0D0D&ring=9333ea&fire=dc2626&currStreakLabel=9333ea"/>
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
 </p>
-
 <!-- CONTRIBUIÇÕES -->
 <h2 align="center">📅 &nbsp;Contribuições</h2>
 
