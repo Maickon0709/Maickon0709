@@ -21,7 +21,7 @@
 ---
 
 <!-- O QUE ESTOU ESTUDANDO -->
-<h2 align="center">📚 &nbsp;O que estou estudando</h2>
+<h2 align="center">📚 &nbsp;Currently Learning</h2>
 
 <table align="center">
   <tr>
@@ -63,7 +63,7 @@
 ---
 
 <!-- SOBRE MIM -->
-<h2 align="center">🙋‍♂️ &nbsp;Sobre mim</h2>
+<h2 align="center">🙋‍♂️ &nbsp;About Me</h2>
 
 <p align="center">
 I am an Analysis and Systems Development (ADS) student passionate about technology and building my career in Back-End Development with a focus on data.
@@ -92,7 +92,7 @@ My goal is to become a Junior Data Analyst in the future, building a strong foun
 
 ---
 <!-- CONTRIBUIÇÕES -->
-<h2 align="center">📅 &nbsp;Contribuições</h2>
+<h2 align="center">📅 &nbsp;Contributions</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maickon0709&theme=radical&hide_border=true&bg_color=0D0D0D&color=9333ea&line=7c3aed&point=ffffff"/>
@@ -103,7 +103,7 @@ My goal is to become a Junior Data Analyst in the future, building a strong foun
 ---
 
 <!-- CONTATO -->
-<h2 align="center">📬 &nbsp;Contato</h2>
+<h2 align="center">📬 &nbsp;Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maickon-santos-0903163b3">
