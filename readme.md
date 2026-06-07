@@ -66,9 +66,11 @@
 <h2 align="center">🙋‍♂️ &nbsp;Sobre mim</h2>
 
 <p align="center">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, apaixonado por tecnologia e me encaminhando para a área de <strong>Back-End com foco em dados</strong>.<br/>
-  Atualmente estudando <strong>Python, APIs REST, banco de dados, estrutura de dados</strong> e tudo que envolve o universo dos dados.<br/>
-  Meu objetivo futuro é me tornar um <strong>Analista de Dados Júnior</strong>, construindo uma base sólida um passo de cada vez. 🚀
+I am an Analysis and Systems Development (ADS) student passionate about technology and building my career in Back-End Development with a focus on data.
+Currently, I am studying Python, REST APIs, databases, data structures, and everything related to the data ecosystem.
+My goal is to become a Junior Data Analyst in the future, building a strong foundation one step at a time.
+
+
 </p>
 
 <br/>
