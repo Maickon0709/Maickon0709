@@ -4,9 +4,9 @@
 </p>
 
 <!-- TÍTULO -->
-<h1 align="center">Olá! Eu sou o Maickon Santos 👋</h1>
+<h1 align="center">Hello! I'm Maickon Santos 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Estudando+Back-End+%26+Dados;Python+%7C+APIs+%7C+Banco+de+Dados;Futuro+Analista+de+Dados+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Analysis+and+Systems+Development+Student;Aspiring+Back-End+Developer;Python+%7C+REST+APIs+%7C+SQL;Future+Junior+Data+Analyst+%F0%9F%9A%80"/>
 </p>
 
 <!-- BANNER -->
