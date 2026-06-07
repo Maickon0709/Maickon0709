@@ -28,22 +28,22 @@
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>
       <sub><b>Python</b></sub><br/>
-      <sub>Foco principal</sub>
+      <sub>Main Focus</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
       <sub><b>Java</b></sub><br/>
-      <sub>Iniciando</sub>
+      <sub>Getting Started</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
       <sub><b>MySQL</b></sub><br/>
-      <sub>SQL & Modelagem</sub>
+      <sub>SQL & Data Modeling</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/><br/>
       <sub><b>FastAPI</b></sub><br/>
-      <sub>APIs REST</sub>
+      <sub>REST APIs</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br/>
@@ -53,7 +53,7 @@
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>
       <sub><b>Git</b></sub><br/>
-      <sub>Versionamento</sub>
+      <sub>Version Control</sub>
     </td>
   </tr>
 </table>
