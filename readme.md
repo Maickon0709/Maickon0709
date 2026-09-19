@@ -79,24 +79,18 @@ My goal is to become a Junior Data Analyst in the future, building a strong foun
 <p align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=Maickon0709&theme=radical&hide_border=true&background=0D0D0D&ring=9333ea&fire=dc2626&currStreakLabel=9333ea"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff"/>
+  <img height="150em" src="https://helio-github-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=donut&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
+  <img height="150em" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=donut&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
 </p>
 
 <br/>
-
----
 <!-- CONTRIBUIÇÕES -->
 <h2 align="center">📅 &nbsp;Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maickon0709&theme=radical&hide_border=true&bg_color=0D0D0D&color=9333ea&line=7c3aed&point=ffffff"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Maickon0709&theme=radical&hide_border=true&bg_color=0D0D0D&color=9333ea&line=7c3aed&point=ffffff"/>
 </p>
-
-<br/>
-
----
 
 <!-- CONTATO -->
 <h2 align="center">📬 &nbsp;Contact</h2>
