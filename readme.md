@@ -6,7 +6,7 @@
 <!-- TÍTULO -->
 <h1 align="center">Hello! I'm Maickon Santos 👋</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Analysis+and+Systems+Development+Student;Aspiring+Back-End+Developer;Python+%7C+REST+APIs+%7C+SQL;Future+Junior+Data+Analyst+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Analysis+and+Systems+Development+Student;Aspiring+Back-End+Developer;Python+%7C+C%23+%7C+SQL;Future+Junior+Data+Analyst+%F0%9F%9A%80"/>
 </p>
 
 <!-- BANNER -->
@@ -15,8 +15,6 @@
 </p>
 
 <br/>
-
-
 
 ---
 
@@ -31,9 +29,9 @@
       <sub>Main Focus</sub>
     </td>
     <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
-      <sub><b>Java</b></sub><br/>
-      <sub>Getting Started</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br/>
+      <sub><b>C#</b></sub><br/>
+      <sub>Currently Learning</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
@@ -41,9 +39,9 @@
       <sub>SQL & Data Modeling</sub>
     </td>
     <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/><br/>
-      <sub><b>FastAPI</b></sub><br/>
-      <sub>REST APIs</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="45"/><br/>
+      <sub><b>.NET</b></sub><br/>
+      <sub>ASP.NET Core Web API</sub>
     </td>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br/>
@@ -67,10 +65,8 @@
 
 <p align="center">
 I am an Analysis and Systems Development (ADS) student passionate about technology and building my career in Back-End Development with a focus on data.
-Currently, I am studying Python, REST APIs, databases, data structures, and everything related to the data ecosystem.
+Currently, I am studying Python, C#, REST APIs, databases, data structures, and everything related to the data ecosystem.
 My goal is to become a Junior Data Analyst in the future, building a strong foundation one step at a time.
-
-
 </p>
 
 <br/>
@@ -83,9 +79,9 @@ My goal is to become a Junior Data Analyst in the future, building a strong foun
 <p align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=Maickon0709&theme=radical&hide_border=true&background=0D0D0D&ring=9333ea&fire=dc2626&currStreakLabel=9333ea"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maickon0709&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&icon_color=dc2626&text_color=ffffff"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maickon0709&layout=donut&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maickon0709&layout=donut&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9333ea&text_color=ffffff&langs_count=6"/>
 </p>
 
 <br/>
